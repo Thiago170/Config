@@ -1,0 +1,10 @@
+C:\Users\thiag\source\repos\proyectopantallaconfig\bin\Debug\proyectopantallaconfig.exe.config
+C:\Users\thiag\source\repos\proyectopantallaconfig\bin\Debug\proyectopantallaconfig.exe
+C:\Users\thiag\source\repos\proyectopantallaconfig\bin\Debug\proyectopantallaconfig.pdb
+C:\Users\thiag\source\repos\proyectopantallaconfig\obj\Debug\proyectopantallaconfig.csproj.AssemblyReference.cache
+C:\Users\thiag\source\repos\proyectopantallaconfig\obj\Debug\proyectopantallaconfig.Form1.resources
+C:\Users\thiag\source\repos\proyectopantallaconfig\obj\Debug\proyectopantallaconfig.Properties.Resources.resources
+C:\Users\thiag\source\repos\proyectopantallaconfig\obj\Debug\proyectopantallaconfig.csproj.GenerateResource.cache
+C:\Users\thiag\source\repos\proyectopantallaconfig\obj\Debug\proyectopantallaconfig.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\proyectopantallaconfig\obj\Debug\proyectopantallaconfig.exe
+C:\Users\thiag\source\repos\proyectopantallaconfig\obj\Debug\proyectopantallaconfig.pdb
